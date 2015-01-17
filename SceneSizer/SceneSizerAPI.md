@@ -10,6 +10,7 @@ The main method you'll want to use is the public method:
 
 It requires the size of your **Screen** and the desired sizes of your **Scene**.
 It outputs a scene size that will always fit your scene padding either width or heigth.
+
 ex:
 
 ```scene.size = SceneSizer.calculateSceneSize(initialSize: skView.bounds.size, desiredWidth: 768, desiredHeight: 1024)```
