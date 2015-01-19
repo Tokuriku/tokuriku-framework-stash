@@ -1,0 +1,10 @@
+framework module HardwareScanner {
+  umbrella header "HardwareScanner.h"
+
+  export *
+  module * { export * }
+}
+
+module HardwareScanner.Swift {
+    header "HardwareScanner-Swift.h"
+}
