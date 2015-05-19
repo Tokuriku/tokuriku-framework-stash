@@ -1,3 +1,5 @@
-# HardwareScanner
+# HardwareScanner Framework API Document
+#### Part of the Tokuriku-Framework-Stash GitHub Repository
+https://github.com/Tokuriku/tokuriku-framework-stash
 
-Description comming soon!
+All the methods in this Framework are dependent on the "**HardwareScanner**" Class and are **Type Methods**.
