@@ -1,0 +1,10 @@
+framework module SceneSizer {
+  umbrella header "SceneSizer.h"
+
+  export *
+  module * { export * }
+}
+
+module SceneSizer.Swift {
+    header "SceneSizer-Swift.h"
+}
